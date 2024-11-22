@@ -3,7 +3,7 @@
 
 ## Introduction  
 Welcome to **Compass App**, a simple yet effective mobile application designed using **React Native**. This app serves as a basic digital compass to help users determine directions with ease and accuracy.  
-![CavernousHoaxScanner](https://kidKrishkode.github.io/Streamline-Diagnosis.github.io/images/Cavernous.png)
+![CompassApp](https://github.com/Krishnendu-Mitra/CompassApp/blob/main/assets/compass.png)
 ## Aim 🎯  
 Our goal is to provide a minimalistic and user-friendly compass application that:  
 1. **Displays real-time directions** with precise updates.  
